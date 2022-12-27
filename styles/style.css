@@ -226,7 +226,7 @@ body {
   overflow: hidden;
 }
 
-.section-title {
+.section-title_theme_dark {
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -238,7 +238,7 @@ body {
   color: white;
 }
 
-.section-subtitle {
+.section-subtitle_theme_dark {
   width: 60%;
   line-height: 34px;
   font-size: 24px;
