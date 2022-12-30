@@ -231,6 +231,7 @@
 }
 
 .section-title_theme_dark {
+  position: relative;
   width: 60%;
   line-height: 1.15;
   font-size: 60px;
@@ -241,6 +242,7 @@
 }
 
 .section-subtitle_theme_dark {
+  position: relative;
   width: 60%;
   line-height: 34px;
   font-size: 24px;
